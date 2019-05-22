@@ -12,7 +12,7 @@ Include basic Shell commands like:
 	rm,
 	rmdir,
 	tree,
-	quit,
+	quit
 	
 If unknown command is type, shell basically does nothing.
 Save current Filesystem to a file called "fs.data" after user type 'quit' into the console
