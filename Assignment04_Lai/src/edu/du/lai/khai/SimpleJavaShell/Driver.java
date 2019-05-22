@@ -1,4 +1,4 @@
-package edu.du.lai.khai.Assignment04;
+package edu.du.lai.khai.SimpleJavaShell;
 
 /*
  * Khai Lai
