@@ -1,6 +1,7 @@
 # simple-java-shell
 A simple Shell implemented in Java using a Linked-Tree structure
-Project for COMP 2673 at University of Denver
+Project for COMP 2673 at University of Denver.
+
 For viewing and learning purposes only. PLEASE DON'T COPY MY CODE :'(
 
 Include basic Shell commands like:
